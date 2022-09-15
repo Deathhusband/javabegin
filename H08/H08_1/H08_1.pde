@@ -1,7 +1,7 @@
 int teller = 0;
 
-while(teller <= 999999999){
-  println("ik ga door minen tot we op 999999999 zitten ");
+while(teller <= 10){
+  println("ik ga door minen tot we op 10 zitten ");
   println("bitcoins gemined: " + teller);
   teller++;
 }

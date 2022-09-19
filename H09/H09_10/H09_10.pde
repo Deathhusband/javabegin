@@ -1,4 +1,3 @@
-//Hier komen je variabelen.
 int x1 = 225;
 int y1 = 190; 
 int s1 = 50; 

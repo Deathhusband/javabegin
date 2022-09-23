@@ -1,0 +1,15 @@
+boolean gevonden;
+String[] namen = {"Noah", "Lucas", "Semmy", "Danny", "Mohammed", "Jake", "James", "Flynn", "Dave", "David"};
+
+void setup(){
+  gevonden = false;
+  for(int i = 0; i < namen.length; i++){
+    if(namen[i] == "jan"){
+    gevonden = true;
+    }
+    
+  }  
+  
+  println(gevonden);
+
+}
